@@ -4,6 +4,8 @@ I recently completed a real-world Sales Insights Data Analysis project where I a
 
 This project focuses on transforming raw SQL data into an interactive Power BI dashboard that tracks Revenue, Profit Margin, and Sales Quantity across various markets, regions, products, and customer types — enabling data-driven decision-making for business growth.
 
+Power Bi Dashboard Link : https://drive.google.com/file/d/17-5eSPPZosArgxjjLreCTB7a4zPqOljj/view?usp=sharing
+
 🔍 Key Highlights
 
 Data Source: Real-world dataset extracted from SQL Database

@@ -6,6 +6,8 @@ This project focuses on transforming raw SQL data into an interactive Power BI d
 
 Power Bi Dashboard Link : https://drive.google.com/file/d/17-5eSPPZosArgxjjLreCTB7a4zPqOljj/view?usp=sharing
 
+Power Bi Service Link : https://app.powerbi.com/links/BT85ql9jgW?ctid=b2d3e9a6-6a46-410a-af06-8d8f20cc8a99&pbi_source=linkShare
+
 🔍 Key Highlights
 
 Data Source: Real-world dataset extracted from SQL Database

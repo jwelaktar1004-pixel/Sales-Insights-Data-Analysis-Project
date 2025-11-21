@@ -8,6 +8,8 @@ Power Bi Dashboard Link : https://drive.google.com/file/d/17-5eSPPZosArgxjjLreCT
 
 Power Bi Service Link : https://app.powerbi.com/links/BT85ql9jgW?ctid=b2d3e9a6-6a46-410a-af06-8d8f20cc8a99&pbi_source=linkShare 
 
+Sales Insights Project Report Link in Googel Drive : https://docs.google.com/document/d/1D0CoSJoU1bgn7UnVLyoL39Pl6r9NkETk/edit?usp=sharing&ouid=106046100802805057417&rtpof=true&sd=true
+
 Data analysis with sql and  queries: 
 
 1. Show all customer records
